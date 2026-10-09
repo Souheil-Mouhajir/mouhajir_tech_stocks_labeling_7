@@ -1,0 +1,10 @@
+pandas==3.0.5
+matplotlib==3.11.2
+seaborn==0.13.2
+great-tables==1.0.0
+jupyter==1.1.1
+nbformat==5.11.1
+nbclient==0.11.0
+ipykernel==7.4.0
+jinja2==3.1.6
+tabulate==0.10.0
